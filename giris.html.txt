@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Enter Code</title>
+<script src="script.js"></script>
+</head>
+
+<body style="text-align:center; font-family:Arial; margin-top:100px;">
+
+<h2>Kodu Buraya Yazz✨</h2>
+
+<input type="text" id="kod" placeholder="Kodu buraya yaz.">
+<br><br>
+<button onclick="kontrolEt()">Submit</button>
+
+<p id="mesaj"></p>
+
+</body>
+</html>

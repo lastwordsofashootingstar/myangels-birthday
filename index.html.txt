@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>For You 💖</title>
+</head>
+<body style="text-align:center; font-family:Arial; margin-top:100px;">
+
+<h1>Doğum Günün Kutlu Olsun Meleğimmm💕</h1>
+<p>Devam etmek için butona tıkla...</p>
+
+<button onclick="location.href='giris.html'">Continue</button>
+
+</body>
+</html>
