@@ -6,7 +6,7 @@ function kontrolEt() {
         window.location.href = "january.html";
     }
 
-    else if (girilenKod == "delnature") {
+    else if (girilenKod == "deltarune") {
         window.location.href = "february.html";
     }
 
