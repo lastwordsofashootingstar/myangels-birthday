@@ -2,7 +2,19 @@ function kontrolEt() {
 
     var girilenKod = document.getElementById("kod").value;
 
-    if (girilenKod == "watchmen") {
+    if (girilenKod == "octfn") {
+        window.location.href = "october.html";
+    }
+
+    else if (girilenKod == "novfn") {
+        window.location.href = "november.html";
+    }
+
+    else if (girilenKod == "decfn") {
+        window.location.href = "december.html";
+    }
+
+    else if (girilenKod == "watchmen") {
         window.location.href = "january.html";
     }
 
